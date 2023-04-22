@@ -1,1 +1,1 @@
-# GMKA_Burak_Gundogan
+# GMKA ve TRAI'ın sunmuş olduğu eğitim için oluşturulmuş bir repo. 
